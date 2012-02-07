@@ -1,0 +1,24 @@
+[submodule "vanilla/spin.js"]
+	path = vanilla/spin.js
+	url = https://github.com/fgnass/spin.js.git
+[submodule "vanilla/keymaster"]
+	path = vanilla/keymaster
+	url = https://github.com/madrobby/keymaster.git
+[submodule "vanilla/smoke.js"]
+	path = vanilla/smoke.js
+	url = https://github.com/jyoungblood/smoke.js.git
+[submodule "vanilla/list"]
+	path = vanilla/list
+	url = https://github.com/javve/list.git
+[submodule "vanilla/validate.js"]
+	path = vanilla/validate.js
+	url = https://github.com/rickharrison/validate.js.git
+[submodule "jquery/antiscroll"]
+	path = jquery/antiscroll
+	url = https://github.com/LearnBoost/antiscroll.git
+[submodule "jquery/textualizer"]
+	path = jquery/textualizer
+	url = https://github.com/krisk/textualizer.git
+[submodule "vanilla/tinycon"]
+	path = vanilla/tinycon
+	url = https://github.com/tommoor/tinycon.git
